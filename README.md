@@ -1,23 +1,29 @@
 # Hi there, I'm Sarvesh 👋
 
-Software Developer focused on building clean, efficient Python applications and problem-solving.
+**Full-Stack Software Engineer** with a focus on building high-performance web applications, scalable backend microservices, and robust REST APIs.
 
 ---
 
-### 💻 Tech Stack
-- **Languages:** Python, SQL
-- **Tools & Environments:** Git, GitHub, VS Code
-- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, SQL, HTML5, CSS3
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js, FastAPI, REST APIs
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **DevOps & Tools:** Git, GitHub, Docker, Postman, Linux, Vercel
 
 ---
 
-### 🚀 Featured Projects
-- 📌 **Python Quiz Engine** — Interactive CLI application built with Python.
-- 📌 **Quote Generator** — Simple quotes manager featuring dynamic fetch/display logic.
-- 📌 **Task Manager CLI** — Lightweight to-do list utility for command-line task tracking.
+### 🚀 Production-Grade Featured Projects
+
+> *Note: Currently refactoring portfolio projects into scalable full-stack architectures.*
+
+* **Full-Stack Enterprise Task Manager** — Built with React, Node.js, Express, and MongoDB. Features JWT authentication, role-based access control (RBAC), and real-time state updates.
+* **Scalable Microservice API** — Built with FastAPI & PostgreSQL. Features API rate-limiting, Redis caching, and asynchronous task processing.
 
 ---
 
-### 📫 Connect with Me
-- GitHub: [@Sarvesh984](https://github.com/Sarvesh984)
+### 📊 GitHub Stats & Activity
+- 💻 Passionate about system design, clean architecture, and performance optimization.
+- 📬 **Connect with Me:** [LinkedIn](#) | [Email](#) | [@Sarvesh984](https://github.com/Sarvesh984)
 -
