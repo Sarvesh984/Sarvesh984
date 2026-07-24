@@ -25,5 +25,5 @@
 
 ### 📊 GitHub Stats & Activity
 - 💻 Passionate about system design, clean architecture, and performance optimization.
-- 📬 **Connect with Me:** [LinkedIn](#) | [Email](#) | [@Sarvesh984](https://github.com/Sarvesh984)
+- 📬 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/sarvesh-chakravarthy-3874a1424) | [Email](sarveshchakravarthy00@gmail.com) | [@Sarvesh984](https://github.com/Sarvesh984)
 -
