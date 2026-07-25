@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 1. Intro Section & Waving Banner -->
+  <!-- 1. Intro Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20there,%20I'm%20Sarvesh%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <!-- 2. Typing Animation Banner -->
@@ -10,7 +10,22 @@
 
   <br/><br/>
 
-  <!-- 4. Portfolio + Social Badges -->
+</div>
+
+---
+
+## ⚡ 3. About Me
+
+- 🚀 **Name:** Sarvesh Chakravarthy
+- 💻 **Role:** Full-Stack Software Engineer specializing in scalable web services, cross-platform mobile apps, and robust REST APIs.
+- 🎯 **Career Focus:** Engineering high-performance architectures for product-driven companies like Zoho & Google.
+- 📚 **Current Deep-Dive:** Advanced system design, creative games, user-friendly mobile applications.
+
+---
+
+## 🔗 4. Portfolio & Social Links
+
+<p>
   <a href="https://github.com/Sarvesh984">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -20,19 +35,7 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-</div>
-
-<br/>
-
----
-
-## ⚡ 3. About Me
-
-- 🚀 **Name:** Sarvesh chakravarthy
-- 💻 **Role:** Full-Stack Software Engineer specializing in scalable web services, cross-platform mobile apps, and robust REST APIs.
-- 🎯 **Career Focus:** Engineering high-performance architectures for product-driven companies like Zoho & Google.
-- 📚 **Current Deep-Dive:** Advanced system design,creative games,user friendly mobile application
+</p>
 
 ---
 
@@ -53,23 +56,6 @@
 
 ---
 
-
-## 🛠️ 8. Tools & Environments
-
-<p>
-  <img src="https://img.shields.io/badge/Tools-VS_Code-20b2aa?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Android_Studio-20b2aa?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-IntelliJ_IDEA-20b2aa?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-PyCharm-20b2aa?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Git-20b2aa?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-20b2aa?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Postman-20b2aa?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-20b2aa?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Firebase-20b2aa?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Figma-20b2aa?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
 ## 🚀 6. Featured & Current Projects
 
 - 📌 **[Interactive Live Quiz Engine](https://github.com/Sarvesh984/python-quiz-app)** — *Python CLI / Backend*
@@ -88,7 +74,7 @@
 
 <div align="center">
 
-  <h2>📊 7. GitHub Stats & Activity</h2>
+  ## 📊 7. GitHub Stats & Activity
 
   <!-- High-reliability Stats Cards -->
   <a href="https://github.com/Sarvesh984">
@@ -98,9 +84,29 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
   </a>
 
-  <br/><br/>
-
 </div>
+
+---
+
+## 🛠️ 8. Tools & Environments
+
+<p>
+  <img src="https://img.shields.io/badge/Tools-VS_Code-20b2aa?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Android_Studio-20b2aa?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-IntelliJ_IDEA-20b2aa?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-PyCharm-20b2aa?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Git-20b2aa?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-GitHub-20b2aa?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Postman-20b2aa?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Docker-20b2aa?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Firebase-20b2aa?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Figma-20b2aa?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+<div align="center">
+
   <!-- 9. Contribution Graph -->
   <h2>🔥 9. Contribution Streak Graph</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh984&theme=tokyonight&hide_border=true" width="90%" />
