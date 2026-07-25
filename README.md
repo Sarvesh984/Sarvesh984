@@ -66,22 +66,20 @@
   * Interactive application featuring real-time score tracking and structured question handling.
   * Designed with robust input validation and clean object-oriented code principles.
 ---
-
-<div align="center">
-
 <div align="center">
 
   <h2>📊 7. GitHub Stats Cards</h2>
 
   <!-- Live GitHub Stats & Top Languages Images -->
   <a href="https://github.com/Sarvesh984">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's GitHub Stats" />
   </a>
   <a href="https://github.com/Sarvesh984">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
   </a>
 
 </div>
+
 ---
 
 ## 🛠️ 8. Tools & Environments
