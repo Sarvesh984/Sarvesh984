@@ -53,6 +53,7 @@
 
 ---
 
+
 ## 🛠️ 8. Tools & Environments
 
 <p>
@@ -69,20 +70,37 @@
 </p>
 
 ---
+## 🚀 6. Featured & Current Projects
 
-## 🚀 6. Current Projects
+- 📌 **[Interactive Live Quiz Engine](https://github.com/Sarvesh984/python-quiz-app)** — *Python CLI / Backend*
+  - Built with clean object-oriented Python, dynamic scoring feedback, and CLI user interaction.
+  - Features structured question banks and real-time score tracking.
 
-- 📌 **Full-Stack Enterprise Task Manager** — Built with React, Node.js, Express, and MongoDB. Features JWT auth, RBAC, and real-time state management.
-- 📌 **Scalable Microservice API Engine** — Built with FastAPI & PostgreSQL featuring Redis caching, rate-limiting, and async processing.
-- 📌 **Interactive Live Quiz Platform** — Clean-architecture Python application with dynamic scoring and state tracking.
+- 📌 **Full-Stack Enterprise Task Platform** — *React.js | Node.js / FastAPI | MongoDB*
+  - Scalable task management platform featuring JWT user authentication and Role-Based Access Control (RBAC).
+  - Designed with responsive UI, real-time state updates, and RESTful backend APIs.
+
+- 📌 **Full-Stack Turf Booking System** — *Java / Python | SQL | Web / Mobile*
+  - Online booking platform for sports turf slots with real-time availability checks and scheduling logic.
+  - Implemented relational database schemas (MySQL) and clean architectural layers.
 
 ---
 
 <div align="center">
 
-- 📚 **Current Deep-Dive:** A
- 
+  <h2>📊 7. GitHub Stats & Activity</h2>
 
+  <!-- High-reliability Stats Cards -->
+  <a href="https://github.com/Sarvesh984">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sarvesh984">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
+  </a>
+
+  <br/><br/>
+
+</div>
   <!-- 9. Contribution Graph -->
   <h2>🔥 9. Contribution Streak Graph</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh984&theme=tokyonight&hide_border=true" width="90%" />
