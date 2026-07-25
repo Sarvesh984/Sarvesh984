@@ -29,10 +29,10 @@
 
 ## ⚡ 3. About Me
 
-- 🚀 **Name:** Sarvesh
+- 🚀 **Name:** Sarvesh chakravarthy
 - 💻 **Role:** Full-Stack Software Engineer specializing in scalable web services, cross-platform mobile apps, and robust REST APIs.
 - 🎯 **Career Focus:** Engineering high-performance architectures for product-driven companies like Zoho & Google.
-- 📚 **Current Deep-Dive:** Advanced System Design, Microservices, and Data Structures & Algorithms.
+- 📚 **Current Deep-Dive:** Advanced system design,creative games,user friendly mobile application
 
 ---
 
