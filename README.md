@@ -34,19 +34,46 @@
 - 🏢 **Career Goal:** Engineering scalable, production-grade systems for top product-based companies like Zoho & Google.
 - 🎯 **Current Focus:** Advanced Data Structures & Algorithms, System Design, and Full-Stack Microservices.
 
----
-
 ## 📊 Programming Languages Proficiency Dashboard
 
-<p align="center">
-  <img src="https://geektics-readme-skills.vercel.app/api?title=Programming+Languages+%26+Web+Proficiency&skills=HTML5:90,CSS3:90,JavaScript:80,SQL:80,Python:75,Java:70,Dart:60&theme=tokyonight" width="90%" alt="Language Skills Bar Chart" />
-</p>
+<br/>
 
-```text
-HTML5       [████████████████████████████████████████] 90%
-CSS3        [████████████████████████████████████████] 90%
-JavaScript  [█████████████████████████████████       ] 80%
-SQL (MySQL) [█████████████████████████████████       ] 80%
-Python      [█████████████████████████████           ] 75%
-Java        [███████████████████████████             ] 70%
-Dart        [███████████████████████                 ] 60%
+<table width="100%">
+  <tr>
+    <td width="30%"><b>HTML5</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=E34F26&suffix=%" /></td>
+    <td width="10%"><b>90%</b></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>CSS3</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/90/?scale=100&title=&width=400&color=1572B6&suffix=%" /></td>
+    <td width="10%"><b>90%</b></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>JavaScript</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=F7DF1E&suffix=%" /></td>
+    <td width="10%"><b>80%</b></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>SQL (MySQL)</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/80/?scale=100&title=&width=400&color=4479A1&suffix=%" /></td>
+    <td width="10%"><b>80%</b></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Python</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/75/?scale=100&title=&width=400&color=3776AB&suffix=%" /></td>
+    <td width="10%"><b>75%</b></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Java</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/70/?scale=100&title=&width=400&color=ED8B00&suffix=%" /></td>
+    <td width="10%"><b>70%</b></td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Dart</b></td>
+    <td width="60%"><img src="https://progress-bar.dev/60/?scale=100&title=&width=400&color=0175C2&suffix=%" /></td>
+    <td width="10%"><b>60%</b></td>
+  </tr>
+</table>
+
+<br/>
