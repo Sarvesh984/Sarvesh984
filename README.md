@@ -58,31 +58,23 @@
 
 ## 🚀 6. Featured & Current Projects
 
-- 📌 **[Interactive Live Quiz Engine](https://github.com/Sarvesh984/python-quiz-app)** — *Python CLI / Backend*
-  - Built with clean object-oriented Python, dynamic scoring feedback, and CLI user interaction.
-  - Features structured question banks and real-time score tracking.
+* **[Turf Slot Booking System](https://github.com/Sarvesh984/turf-booking-java)** — *Core Java / CLI*
+  * Built with modular OOP architecture, dynamic real-time slot tracking, and exception-safe menu loops.
+  * Features UUID booking generation, detailed receipt printing, and ASCII console QR code passes.
 
-- 📌 **Full-Stack Enterprise Task Platform** — *React.js | Node.js / FastAPI | MongoDB*
-  - Scalable task management platform featuring JWT user authentication and Role-Based Access Control (RBAC).
-  - Designed with responsive UI, real-time state updates, and RESTful backend APIs.
-
-- 📌 **Full-Stack Turf Booking System** — *Java / Python | SQL | Web / Mobile*
-  - Online booking platform for sports turf slots with real-time availability checks and scheduling logic.
-  - Implemented relational database schemas (MySQL) and clean architectural layers.
-
+* **[Interactive Quiz Application](https://github.com/Sarvesh984)** — *Core Java / CLI*
+  * Interactive application featuring real-time score tracking and structured question handling.
+  * Designed with robust input validation and clean object-oriented code principles.
 ---
 
 <div align="center">
 
-  ## 📊 7. GitHub Stats & Activity
+ ## 📊 7. GitHub Stats & Activity
 
-  <!-- High-reliability Stats Cards -->
-  <a href="https://github.com/Sarvesh984">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Sarvesh984">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh984&show_icons=true&theme=dark&hide_border=true" alt="Sarvesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+</p>
 
 </div>
 
