@@ -1,29 +1,52 @@
-# Hi there, I'm Sarvesh 👋
+<div align="center">
 
-**Full-Stack Software Engineer** with a focus on building high-performance web applications, scalable backend microservices, and robust REST APIs.
+  <!-- Animated Header Banner with Name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20there,%20I'm%20Sarvesh%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps;Specialized+in+React%2C+Java%2C+Python+%26+Flutter;Passionate+About+System+Design+%26+Clean+Code" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Quick Action Badges -->
+  <a href="https://github.com/Sarvesh984">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ About Me
 
-- **Languages:** JavaScript, TypeScript, Python, SQL, HTML5, CSS3
-- **Frontend:** React.js, Next.js, Redux, Tailwind CSS
-- **Backend:** Node.js, Express.js, FastAPI, REST APIs
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **DevOps & Tools:** Git, GitHub, Docker, Postman, Linux, Vercel
-
----
-
-### 🚀 Production-Grade Featured Projects
-
-> *Note: Currently refactoring portfolio projects into scalable full-stack architectures.*
-
-* **Full-Stack Enterprise Task Manager** — Built with React, Node.js, Express, and MongoDB. Features JWT authentication, role-based access control (RBAC), and real-time state updates.
-* **Scalable Microservice API** — Built with FastAPI & PostgreSQL. Features API rate-limiting, Redis caching, and asynchronous task processing.
+- 🚀 **Name:** Sarvesh
+- 💻 **Role:** Full-Stack Software Engineer focused on high-performance web applications, mobile platforms, and robust REST APIs.
+- 🏢 **Career Goal:** Engineering scalable, production-grade systems for top product-based companies like Zoho & Google.
+- 🎯 **Current Focus:** Advanced Data Structures & Algorithms, System Design, and Full-Stack Microservices.
 
 ---
 
-### 📊 GitHub Stats & Activity
-- 💻 Passionate about system design, clean architecture, and performance optimization.
-- 📬 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/sarvesh-chakravarthy-3874a1424) | [Email](sarveshchakravarthy00@gmail.com) | [@Sarvesh984](https://github.com/Sarvesh984)
--
+## 📊 Programming Languages Proficiency Dashboard
+
+<p align="center">
+  <img src="https://geektics-readme-skills.vercel.app/api?title=Programming+Languages+%26+Web+Proficiency&skills=HTML5:90,CSS3:90,JavaScript:80,SQL:80,Python:75,Java:70,Dart:60&theme=tokyonight" width="90%" alt="Language Skills Bar Chart" />
+</p>
+
+```text
+HTML5       [████████████████████████████████████████] 90%
+CSS3        [████████████████████████████████████████] 90%
+JavaScript  [█████████████████████████████████       ] 80%
+SQL (MySQL) [█████████████████████████████████       ] 80%
+Python      [█████████████████████████████           ] 75%
+Java        [███████████████████████████             ] 70%
+Dart        [███████████████████████                 ] 60%
