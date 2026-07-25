@@ -69,15 +69,19 @@
 
 <div align="center">
 
- ## 📊 7. GitHub Stats & Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh984&show_icons=true&theme=dark&hide_border=true" alt="Sarvesh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
-</p>
+  <h2>📊 7. GitHub Stats Cards</h2>
+
+  <!-- Live GitHub Stats & Top Languages Images -->
+  <a href="https://github.com/Sarvesh984">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Sarvesh984">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
+  </a>
 
 </div>
-
 ---
 
 ## 🛠️ 8. Tools & Environments
