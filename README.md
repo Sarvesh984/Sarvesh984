@@ -80,13 +80,8 @@
 
 <div align="center">
 
-  ## 📊 7. GitHub Stats Cards
-
-  <!-- Live GitHub Stats & Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-  <br/><br/>
+- 📚 **Current Deep-Dive:** A
+ 
 
   <!-- 9. Contribution Graph -->
   <h2>🔥 9. Contribution Streak Graph</h2>
