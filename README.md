@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:071A36,48:0866C6,100:EF4444&text=Sarvesh%20Chakravarthy&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Aspiring%20Software%20Engineer%20%7C%20Web%20%26%20Flutter%20Developer&descAlignY=60&descSize=16" alt="Animated blue and red banner introducing Sarvesh Chakravarthy" />
-
-<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=2389E8&center=true&vCenter=true&width=700&lines=Learning+by+building+real+projects;Python+%7C+Java+%7C+JavaScript;Web+%26+Flutter+development;Turning+ideas+into+useful+software">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=2389E8&center=true&vCenter=true&width=700&lines=Learning+by+building+real+projects;Python+%7C+Java+%7C+JavaScript;Web+%26+Flutter+development;Turning+ideas+into+useful+software" alt="Animated text: learning by building projects, Python, Java, JavaScript, web and Flutter development" />
-</a>
+<img width="100%" src="assets/profile-motion.gif" alt="Animated blue and red profile banner with a moving light sweep and code panel" />
 
 <br />
 
@@ -19,6 +15,12 @@
 I’m an aspiring software engineer and web developer who learns by building practical projects. I’m interested in Python, Java, JavaScript, and Flutter, and I enjoy making software easier to use and understand.
 
 ## My repositories
+
+<div align="center">
+<img width="100%" src="assets/project-showcase.gif" alt="Looping animated showcase of all five GitHub repositories" />
+</div>
+
+<br />
 
 | Repository | Overview | Stack | Access |
 | --- | --- | --- | :---: |
