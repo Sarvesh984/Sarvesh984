@@ -1,119 +1,20 @@
-<div align="center">
+# Sarvesh Chakravarthy
 
-  <!-- 1. Intro Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi%20there,%20I'm%20Sarvesh%20👋&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%" />
+**Aspiring Software Engineer · Web & Flutter Developer**
 
-  <!-- 2. Typing Animation Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+%26+Mobile+Apps;Specialized+in+React%2C+Java%2C+Python+%26+Flutter;Passionate+About+System+Design+%26+Clean+Code" alt="Typing SVG" />
-  </a>
+I build practical applications while growing my skills in software engineering. I enjoy turning ideas into clear, useful experiences and learning by shipping projects.
 
-  <br/><br/>
+## Selected projects
 
-</div>
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Turf Slot Booking System](https://github.com/Sarvesh984/turf-booking-java) | A console app for checking turf availability, booking a slot, and printing a confirmation receipt. | Java, OOP, Collections |
+| [Interactive Quiz App](https://github.com/Sarvesh984/python-quiz-app) | A desktop quiz app with two built-in quizzes, random quiz selection, answer choices, and a final score. | Python, Tkinter |
 
----
+## Technologies
 
-## ⚡ 3. About Me
+`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `Flutter`
 
-- 🚀 **Name:** Sarvesh Chakravarthy
-- 💻 **Role:** Full-Stack Software Engineer specializing in scalable web services, cross-platform mobile apps, and robust REST APIs.
-- 🎯 **Career Focus:** Engineering high-performance architectures for product-driven companies like Zoho & Google.
-- 📚 **Current Deep-Dive:** Advanced system design, creative games, user-friendly mobile applications.
+## Connect
 
----
-
-## 🔗 4. Portfolio & Social Links
-
-<p>
-  <a href="https://github.com/Sarvesh984">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💼 5. Tech Stack & Language Dashboard
-
-<p>
-  <img src="https://img.shields.io/badge/Code-HTML5--90%25-20b2aa?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-CSS3--90%25-20b2aa?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-JavaScript--80%25-20b2aa?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-SQL_(MySQL)--80%25-20b2aa?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Python--75%25-20b2aa?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Java--70%25-20b2aa?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Dart--60%25-20b2aa?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-20b2aa?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-React-20b2aa?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Flutter-20b2aa?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
----
-
-## 🚀 6. Featured & Current Projects
-
-* **[Turf Slot Booking System](https://github.com/Sarvesh984/turf-booking-java)** — *Core Java / CLI*
-  * Built with modular OOP architecture, dynamic real-time slot tracking, and exception-safe menu loops.
-  * Features UUID booking generation, detailed receipt printing, and ASCII console QR code passes.
-
-* **[Interactive Quiz Application](https://github.com/Sarvesh984)** — *Core Java / CLI*
-  * Interactive application featuring real-time score tracking and structured question handling.
-  * Designed with robust input validation and clean object-oriented code principles.
----
-<div align="center">
-
-  <h2>📊 7. GitHub Stats Cards</h2>
-
-  <!-- Live GitHub Stats & Top Languages Images -->
-  <a href="https://github.com/Sarvesh984">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Sarvesh984&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Sarvesh984">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sarvesh984&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Sarvesh's Top Languages" />
-  </a>
-
-</div>
-
----
-
-## 🛠️ 8. Tools & Environments
-
-<p>
-  <img src="https://img.shields.io/badge/Tools-VS_Code-20b2aa?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Android_Studio-20b2aa?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-IntelliJ_IDEA-20b2aa?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-PyCharm-20b2aa?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Git-20b2aa?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-20b2aa?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Postman-20b2aa?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-20b2aa?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Firebase-20b2aa?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Figma-20b2aa?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-<div align="center">
-
-  <!-- 9. Contribution Graph -->
-  <h2>🔥 9. Contribution Streak Graph</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvesh984&theme=tokyonight&hide_border=true" width="90%" />
-
-  <br/><br/>
-
-  <!-- 10. Visitor Badge -->
-  <h2>👀 10. Profile Visitor Counter</h2>
-  <img src="https://komarev.com/ghpvc/?username=Sarvesh984&color=00f2fe&style=flat-square&label=Profile+Views" alt="Visitor Count" />
-
-  <br/><br/>
-
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,100:00F2FE&height=120&section=footer" width="100%" />
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/sarvesh-chakravarthy-3874a1424) · [Email](mailto:sarveshchakravarthy00@gmail.com) · [GitHub](https://github.com/Sarvesh984)
