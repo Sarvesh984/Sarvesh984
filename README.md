@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/profile-motion.gif" alt="Animated Sarvesh profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/hero-premium.gif" alt="Smooth neon animated Sarvesh profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00D9C0&center=true&vCenter=true&width=760&height=55&lines=Building+practical+web+experiences;Learning+by+shipping+real+projects;KYN+%C3%97+VAMOS+%E2%80%94+featured+website;Always+learning.+Always+building." alt="Animated introduction" />
+<p><strong>SOFTWARE ENGINEER · WEB DEVELOPER · FLUTTER DEVELOPER</strong><br />Building practical projects and learning by shipping.</p>
 
 <img src="https://komarev.com/ghpvc/?username=Sarvesh984&label=PROFILE%20VIEWS&color=00D9C0&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Sarvesh984?label=FOLLOWERS&style=for-the-badge&logo=github&color=17113F&labelColor=090B1A" alt="GitHub followers" />
@@ -30,7 +30,7 @@ I’m an aspiring software engineer and web developer with a B.Tech in Informati
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/profile-motion.gif" width="100%" alt="Animated code and project banner" />
+<p align="center"><strong>B.Tech · Information Technology</strong><br />India<br /><br /><strong>Open to opportunities</strong></p>
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ I’m an aspiring software engineer and web developer with a B.Tech in Informati
 </td>
 <td width="64%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-bars-portfolio.gif" width="100%" alt="Animated self-rated skill bars: HTML5 80%, CSS3 80%, JavaScript 80%, Java 80%, Python 80%, Tkinter 80%, Flutter 80%, SQL 80%, and Git 80%." />
+<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-bars-premium.gif" width="100%" alt="Animated self-rated skill bars: HTML5 80%, CSS3 80%, JavaScript 80%, Java 80%, Python 80%, Tkinter 80%, Flutter 80%, SQL 80%, and Git 80%." />
 
 [Open the SVG version](https://github.com/Sarvesh984/Sarvesh984/blob/main/assets/skill-bars.svg)
 
@@ -92,12 +92,6 @@ All four projects are featured below. Each card is stored in this repository, so
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/project-showcase.gif" alt="Animated showcase of the featured KYN × VAMOS website and other projects" />
-
-</div>
 
 ## GitHub activity
 
@@ -140,7 +134,6 @@ All four projects are featured below. Each card is stored in this repository, so
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=00D9C0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let%E2%80%99s+keep+building+cool+things." alt="Animated thank-you message" />
+<em>Thanks for visiting — keep building useful things.</em>
 
 </div>
-
