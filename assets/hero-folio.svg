@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="350" viewBox="0 0 1120 350" fill="none" role="img" aria-labelledby="title description">
+<title id="title">Sarvesh Chakravarthy's creative developer folio</title><desc id="description">A warm animated studio folio showing Sarvesh's four projects, focus on useful software, and learning through building.</desc>
+<defs>
+ <linearGradient id="paper" x1="40" y1="0" x2="1080" y2="350"><stop stop-color="#FFF9EF"/><stop offset="1" stop-color="#F1E9D9"/></linearGradient>
+ <linearGradient id="ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F26D57"/><stop offset=".55" stop-color="#816BDD"/><stop offset="1" stop-color="#78A277"/></linearGradient>
+ <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#38344A" fill-opacity=".08"/></pattern>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#38344A" flood-opacity=".13"/></filter>
+</defs>
+<style>
+.paper{fill:url(#paper)}.dots{fill:url(#dots)}.frame{stroke:#D9CEBC}
+.kicker{font:700 10px 'Segoe UI',Ubuntu,Arial,sans-serif;letter-spacing:2.4px;fill:#756A87}
+.title{font:750 42px 'Segoe UI',Ubuntu,Arial,sans-serif;letter-spacing:-1.4px;fill:#27243B}
+.sub{font:500 15px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#5C5869}
+.note{font:600 10px 'Segoe UI',Ubuntu,Arial,sans-serif;letter-spacing:1px;fill:#4C4859}
+.badge{fill:#FFFDF8;stroke:#D9CEBC}.badgeText{font:700 9px 'Segoe UI',Ubuntu,Arial,sans-serif;letter-spacing:.8px;fill:#464254}
+.card{fill:#FFFCF6;stroke:#DCD2C3}.cardTitle{font:700 11px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#302D41}
+.cardMeta{font:500 8px 'Segoe UI',Ubuntu,Arial,sans-serif;letter-spacing:.8px;fill:#7D718B}
+.route{fill:none;stroke:url(#ink);stroke-width:2;stroke-linecap:round;stroke-dasharray:4 8;animation:route 8s linear infinite}
+.pin{fill:#F26D57;stroke:#FFF9EF;stroke-width:2;animation:pin 2.8s ease-in-out infinite}
+.floatA{animation:float 5s ease-in-out infinite}.floatB{animation:float 5.5s ease-in-out -1.6s infinite}.floatC{animation:float 5.2s ease-in-out -3.1s infinite}
+.sticker{animation:spin 18s linear infinite;transform-origin:1015px 70px}
+.sweep{fill:url(#ink);opacity:0;animation:sweep 8s ease-in-out infinite}
+@keyframes route{to{stroke-dashoffset:-120}}@keyframes pin{50%{opacity:.35}}@keyframes float{50%{transform:translateY(-5px)}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes sweep{0%,70%,100%{opacity:0;transform:translateX(-300px)}78%{opacity:.06}92%{opacity:.01;transform:translateX(1120px)}}
+@media(prefers-reduced-motion:reduce){.route,.pin,.floatA,.floatB,.floatC,.sticker,.sweep{animation:none!important}}
+</style>
+<rect class="paper" width="1120" height="350" rx="24"/><rect class="dots" x="1" y="1" width="1118" height="348" rx="23"/><rect class="frame" x=".75" y=".75" width="1118.5" height="348.5" rx="23.25"/>
+<text class="kicker" x="48" y="47">SARVESH CHAKRAVARTHY  /  DEVELOPER FIELD NOTES</text>
+<text class="title" x="48" y="115">Build useful things.</text><text class="title" x="48" y="164">Keep getting better.</text>
+<text class="sub" x="50" y="205">Aspiring software engineer · Web developer</text>
+<text class="sub" x="50" y="229">B.Tech in Information Technology · India</text>
+<rect class="badge" x="48" y="263" width="124" height="30" rx="15"/><circle cx="64" cy="278" r="4" fill="#78A277"/><text class="badgeText" x="76" y="281">LEARN BY BUILDING</text>
+<rect class="badge" x="182" y="263" width="146" height="30" rx="15"/><circle cx="198" cy="278" r="4" fill="#F26D57"/><text class="badgeText" x="210" y="281">OPEN TO OPPORTUNITIES</text>
+<g class="sticker"><circle cx="1015" cy="70" r="25" fill="none" stroke="#816BDD" stroke-opacity=".38" stroke-dasharray="2 5"/><path d="M1015 37v9m0 48v9m33-33h-9m-48 0h-9" stroke="#816BDD" stroke-linecap="round"/></g>
+<path class="route" d="M686 95c47-58 100 17 145 20 42 2 57-37 98-19 38 17 42 72 17 102-26 31-71 17-93 46"/>
+<circle class="pin" cx="686" cy="95" r="6"/>
+<g class="floatA" filter="url(#shadow)"><rect class="card" x="663" y="66" width="188" height="73" rx="14"/><rect x="663" y="66" width="6" height="73" rx="3" fill="#F26D57"/><text class="cardMeta" x="683" y="89">01 · EVENT WEBSITE</text><text class="cardTitle" x="683" y="111">KYN × VAMOS</text><text class="cardMeta" x="683" y="127">REACT · TYPESCRIPT · VITE</text></g>
+<g class="floatB" filter="url(#shadow)"><rect class="card" x="871" y="103" width="197" height="67" rx="14"/><rect x="871" y="103" width="6" height="67" rx="3" fill="#816BDD"/><text class="cardMeta" x="891" y="126">02 · LIVE PORTFOLIO</text><text class="cardTitle" x="891" y="149">Skills meet selected work</text></g>
+<g class="floatC" filter="url(#shadow)"><rect class="card" x="694" y="200" width="171" height="70" rx="14"/><rect x="694" y="200" width="6" height="70" rx="3" fill="#78A277"/><text class="cardMeta" x="714" y="224">03 · DESKTOP APP</text><text class="cardTitle" x="714" y="247">Python quiz · Tkinter</text><text class="cardMeta" x="714" y="261">PRACTICE · FEEDBACK · REPEAT</text></g>
+<g class="floatA" filter="url(#shadow)"><rect class="card" x="901" y="220" width="167" height="68" rx="14"/><rect x="901" y="220" width="6" height="68" rx="3" fill="#E7AA4F"/><text class="cardMeta" x="921" y="244">04 · CONSOLE APP</text><text class="cardTitle" x="921" y="267">Java turf booking</text></g>
+<text class="note" x="48" y="326">NOTICE A NEED  →  MAKE A FIRST VERSION  →  IMPROVE IT THROUGH USE</text>
+<rect class="sweep" x="0" y="0" width="160" height="350" rx="24"/>
+</svg>
