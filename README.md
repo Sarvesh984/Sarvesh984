@@ -38,28 +38,12 @@ I’m an aspiring software engineer and web developer with a B.Tech in Informati
 
 ## Skills
 
-<p align="center"><strong>Technologies connected to my portfolio work</strong></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-090B1A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-090B1A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-090B1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-090B1A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-090B1A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Vite-090B1A?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-<img src="https://img.shields.io/badge/Java-090B1A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-<img src="https://img.shields.io/badge/Python-090B1A?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Tkinter-090B1A?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Tkinter" />
-<img src="https://img.shields.io/badge/Flutter-090B1A?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter" />
-<img src="https://img.shields.io/badge/SQL-090B1A?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-<img src="https://img.shields.io/badge/Git-090B1A?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/OOP-090B1A?style=for-the-badge&logo=coffeescript&logoColor=FFFFFF" alt="OOP" />
-</p>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-map.svg" width="100%" alt="Animated self-rated skill map showing 13 technologies and their related projects, certificate, or toolkit context." />
+
+<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-map.svg?v=2" width="100%" alt="Animated self-rated skill map showing 13 technologies and their related projects, certificate, or toolkit context." />
 
 [Explore the interactive skills-to-project map](https://sarvesh-dev-18.netlify.app/#skills)
+
 </div>
 ## Featured projects
 
