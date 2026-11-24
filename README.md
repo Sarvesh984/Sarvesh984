@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:090B1A,35:17113F,70:123B68,100:00D9C0&height=250&section=header&text=SARVESH%20CHAKRAVARTHY&fontSize=40&fontColor=EAFBFF&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20WEB%20DEVELOPER&descAlignY=61&descSize=16&descColor=9BC9DD" alt="Animated neon profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/profile-motion.gif" alt="Animated Sarvesh profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00D9C0&center=true&vCenter=true&width=760&height=55&lines=Building+practical+web+experiences;Learning+by+shipping+real+projects;KYN+%C3%97+VAMOS+%E2%80%94+featured+website;Always+learning.+Always+building." alt="Animated introduction" />
 
@@ -13,76 +13,89 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9C0,50:5267FF,100:CF5BFF&height=3&section=header" alt="Animated neon divider" />
-
 ## About
 
 <table>
 <tr>
 <td width="62%" valign="middle">
 
-I’m an aspiring software engineer and web developer who learns by building practical projects. I enjoy creating useful web experiences and making software easier to use and understand.
+I’m an aspiring software engineer and web developer with a B.Tech in Information Technology. I enjoy building useful, user-friendly applications, learning through projects, and improving my work through feedback.
 
-**Current focus:** web development, React, TypeScript, and JavaScript<br />
-**Also exploring:** Python, Java, and Flutter
+**Focus:** Software and web development<br />
+**Based in:** India<br />
+**Open to:** Opportunities
+
+[Portfolio website](https://sarvesh-dev-18.netlify.app/) · [GitHub profile](https://github.com/Sarvesh984)
 
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="assets/profile-motion.gif" width="100%" alt="Animated profile illustration" />
+<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/profile-motion.gif" width="100%" alt="Animated code and project banner" />
 
 </td>
 </tr>
 </table>
 
-## Toolkit
+## Skills
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
+<td width="36%" align="center" valign="middle">
 
-**Languages and frameworks**
+**Tools from my portfolio**
 
+![HTML5](https://img.shields.io/badge/HTML5-090B1A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-090B1A?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090B1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-090B1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-090B1A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-090B1A?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-090B1A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-090B1A?style=for-the-badge&logo=python&logoColor=3776AB)
+![Tkinter](https://img.shields.io/badge/Tkinter-090B1A?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/Flutter-090B1A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![SQL](https://img.shields.io/badge/SQL-090B1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Git](https://img.shields.io/badge/Git-090B1A?style=for-the-badge&logo=git&logoColor=F05032)
 
 </td>
-<td width="58%" align="center" valign="middle">
+<td width="64%" align="center" valign="middle">
 
-<img src="assets/skill-bars.svg" width="100%" alt="Animated toolkit display for JavaScript, TypeScript, React, HTML, CSS, Python, Java, and Flutter. Bars are decorative and do not show proficiency scores." />
+<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-bars-portfolio.gif" width="100%" alt="Animated self-rated skill bars: HTML5 80%, CSS3 80%, JavaScript 80%, Java 80%, Python 80%, Tkinter 80%, Flutter 80%, SQL 80%, and Git 80%." />
+
+[Open the SVG version](https://github.com/Sarvesh984/Sarvesh984/blob/main/assets/skill-bars.svg)
 
 </td>
 </tr>
 </table>
 
-## Featured project
+## Featured projects
+
+All four projects are featured below. Each card is stored in this repository, so the project visuals do not depend on a third-party card service.
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/Sarvesh984/kynxvamous-website"><img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/project-cards/kynxvamous-website.png" width="100%" alt="KYN × VAMOS Website project card" /></a>
+<br /><b>KYN × VAMOS Website</b><br />Event information, race-day experiences and partner highlights.
+</td>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/Sarvesh984/portfolio"><img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/project-cards/portfolio.png" width="100%" alt="Personal Portfolio project card" /></a>
+<br /><b>Personal Portfolio</b><br />Projects, certificates, contact details and live GitHub data.
+<br /><a href="https://sarvesh-dev-18.netlify.app/">Visit live portfolio</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/Sarvesh984/python-quiz-app"><img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/project-cards/python-quiz-app.png" width="100%" alt="Python Quiz App project card" /></a>
+<br /><b>Python Quiz App</b><br />Tkinter quiz with randomized questions and score summary.
+</td>
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/Sarvesh984/turf-booking-java"><img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/project-cards/turf-booking-java.png" width="100%" alt="Turf Slot Booking System project card" /></a>
+<br /><b>Turf Slot Booking System</b><br />Java console app for browsing slots, making bookings and printing receipts.
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/Sarvesh984/kynxvamous-website"><img width="82%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Sarvesh984&repo=kynxvamous-website&hide_border=true&theme=tokyonight&title_color=00D9C0&icon_color=CF5BFF&text_color=EAFBFF&bg_color=090B1A" alt="KYN × VAMOS website repository card" /></a>
-
-**KYN × VAMOS Website**<br />
-An event website featuring race information, event day experiences, and partner highlights.
-
-[View source and full project details →](https://github.com/Sarvesh984/kynxvamous-website)
-
-</div>
-
-### Other projects
-
-| Project | Description | Repository |
-| --- | --- | --- |
-| Personal Portfolio | Portfolio with project highlights, certificates, contact links, and public GitHub data. | [Open repo](https://github.com/Sarvesh984/portfolio) |
-| Python Quiz App | Desktop quiz with built-in quizzes, random selection, and a score summary. | [Open repo](https://github.com/Sarvesh984/python-quiz-app) |
-| Turf Slot Booking System | Java console app for viewing slots and creating in-memory bookings. | [Open repo](https://github.com/Sarvesh984/turf-booking-java) |
-
-<div align="center">
-
-<img width="100%" src="assets/project-showcase.gif" alt="Animated showcase of the KYN × VAMOS website and other projects" />
+<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/project-showcase.gif" alt="Animated showcase of the featured KYN × VAMOS website and other projects" />
 
 </div>
 
@@ -112,14 +125,14 @@ An event website featuring race information, event day experiences, and partner 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/output/github-snake.svg" />
-  <img width="96%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/output/github-snake.svg" alt="Animated snake moving through my GitHub contribution calendar" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/output/github-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/output/github-snake.gif" />
+  <img width="96%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/output/github-snake.gif" alt="Animated snake crossing my GitHub contribution calendar" />
 </picture>
 
 <br />
 
-<img width="96%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="Animated 3D rainbow visualization of my GitHub contributions" />
+<img width="96%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D rainbow visualization of my GitHub contributions" />
 
 </div>
 
@@ -128,8 +141,6 @@ An event website featuring race information, event day experiences, and partner 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=00D9C0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let%E2%80%99s+keep+building+cool+things." alt="Animated thank-you message" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CF5BFF,45:123B68,100:090B1A&height=130&section=footer&animation=twinkling" alt="Animated neon footer" />
 
 </div>
 
