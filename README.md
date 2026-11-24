@@ -57,9 +57,9 @@ I’m an aspiring software engineer and web developer with a B.Tech in Informati
 </td>
 <td width="64%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-bars-premium.gif" width="100%" alt="Animated self-rated skill bars: HTML5 80%, CSS3 80%, JavaScript 80%, Java 80%, Python 80%, Tkinter 80%, Flutter 80%, SQL 80%, and Git 80%." />
+<img src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/skill-map.svg" width="100%" alt="Animated self-rated skill map showing 13 technologies with their related portfolio projects or certificate." />
 
-[Open the SVG version](https://github.com/Sarvesh984/Sarvesh984/blob/main/assets/skill-bars.svg)
+[Explore the interactive skills-to-project map](https://sarvesh-dev-18.netlify.app/#skills)
 
 </td>
 </tr>
