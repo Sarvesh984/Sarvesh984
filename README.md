@@ -1,24 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/hero-folio.svg?v=5" alt="Animated warm editorial profile banner for Sarvesh Chakravarthy" />
+<img width="100%" src="https://raw.githubusercontent.com/Sarvesh984/Sarvesh984/main/assets/hero-folio.svg?v=6" alt="Animated warm editorial profile banner for Sarvesh Chakravarthy" />
 
-<p><strong>SOFTWARE ENGINEERING · WEB DEVELOPMENT · LEARNING BY BUILDING</strong><br />B.Tech in Information Technology · India</p>
+</div>
 
-<a href="https://sarvesh-dev-18.netlify.app/">PORTFOLIO</a> ·
-<a href="https://github.com/Sarvesh984">GITHUB</a> ·
-<a href="https://www.linkedin.com/in/sarvesh-chakravarthy-3874a1424">LINKEDIN</a> ·
-<a href="mailto:sarveshchakravarthy00@gmail.com">EMAIL</a>
+## About me
+
+<h2 align="center">Sarvesh Chakravarthy</h2>
+
+I’m an aspiring software engineer and web developer with a B.Tech in Information Technology. I learn by building practical projects and improving them through feedback. I’m interested in web development, Python, Java, and Flutter.
+
+<div align="center">
+
+[![Visit my portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-Explore%20my%20work-F26D57?style=for-the-badge&logo=netlify&logoColor=white)](https://sarvesh-dev-18.netlify.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sarvesh984-28253B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvesh984) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-chakravarthy-3874a1424) [![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarveshchakravarthy00@gmail.com)
 
 </div>
 
 ---
-
-## About
-
-I’m Sarvesh, an aspiring software engineer and web developer with a B.Tech in Information Technology. I learn by building practical projects and improving the details that make software useful and clear. My work includes a React and TypeScript event website, an interactive portfolio, a Python and Tkinter quiz app, and a Java booking app.
-
-**Focus:** Software and web development · **Based in:** India · **Open to:** Opportunities
-
 ## Skills in context
 
 <div align="center">
