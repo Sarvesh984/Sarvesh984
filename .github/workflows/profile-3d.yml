@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "23 18 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 permissions:
   contents: write
@@ -27,3 +29,4 @@ jobs:
           if git commit -m "Generate 3D contribution calendar"; then
             git push
           fi
+
